@@ -1,0 +1,104 @@
+[33mcommit b431920e0d2e57478b8fb93d48dff8765683167b[m[33m ([m[1;36mHEAD -> [m[1;32mMain[m[33m)[m
+Merge: d66faf9 5d49af1
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 17 09:55:43 2023 +0530
+
+    new1
+
+[33mcommit d66faf9b2e825e622aaf75233559e27d313c0806[m
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 17 09:53:12 2023 +0530
+
+    new
+
+[33mcommit 5d49af138268ba9d57c909c2191b15d5a8725d85[m[33m ([m[1;31morigin/Main[m[33m)[m
+Author: ishwaryavenkateswaran <65099201+ishwaryavenkateswaran@users.noreply.github.com>
+Date:   Thu Aug 17 09:52:48 2023 +0530
+
+    Update newFiles.txt
+
+[33mcommit 1a427f18acefcf5a6dfec599e6fdbded9e7cb68a[m
+Author: ishwaryavenkateswaran <65099201+ishwaryavenkateswaran@users.noreply.github.com>
+Date:   Thu Aug 17 09:51:21 2023 +0530
+
+    Update newFiles.txt
+
+[33mcommit 3fa16de1be89a022980e2a14d5e21a4dbd57bc99[m
+Merge: c11b159 293d768
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 17 09:48:31 2023 +0530
+
+    resolving merger conflicts
+
+[33mcommit 293d76864d6f8a0a734f4a7fdb061791f4866a9c[m[33m ([m[1;31morigin/Feature3[m[33m, [m[1;32mFeature3[m[33m)[m
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 17 09:45:12 2023 +0530
+
+    c7
+
+[33mcommit c11b159a9f45f4a67d0402e42f1673d9119d4f46[m
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 17 09:44:18 2023 +0530
+
+    c6
+
+[33mcommit b398d8faf859468dcff552291f27165676a80ee4[m
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 17 09:42:11 2023 +0530
+
+    c5
+
+[33mcommit fa39a7fb43a3a10b1453a9a5b936182b38de0525[m
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 17 09:19:45 2023 +0530
+
+    c4
+
+[33mcommit e8c10eea54cc949cb3dd88c073c47e0af05ded20[m
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 17 09:18:57 2023 +0530
+
+    c4
+
+[33mcommit cbf691a5ca2593f394145e94fb64f8bac42e398c[m
+Merge: e2f3df6 a9bc4e1
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 17 09:17:01 2023 +0530
+
+    Merge branch 'Feature2' into Main
+
+[33mcommit e2f3df60554367a864dc35fafddbce0f8c5ec600[m
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 17 09:16:10 2023 +0530
+
+    c3
+
+[33mcommit a9bc4e1b0a7cb18e3c297bd8e08a66e9b8b301c6[m[33m ([m[1;32mFeature2[m[33m)[m
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 17 09:14:51 2023 +0530
+
+    C2
+
+[33mcommit 737624076b26af5ff53f560faf9bb27a78bc28c3[m
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 17 09:13:27 2023 +0530
+
+    m1
+
+[33mcommit b44d95ee754d638261896331d4812341552a3df0[m[33m ([m[1;31morigin/Feature1[m[33m, [m[1;32mFeature1[m[33m)[m
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 10 14:06:42 2023 +0530
+
+    new commit in Feature branch
+
+[33mcommit 3e7ebb42e2c93c3bdf98c11668804a16f983bc40[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 10 11:11:17 2023 +0530
+
+    Second Commit
+
+[33mcommit 40bc221bc82f1f38bbf9b9a5c894838d04d5c698[m
+Author: Ishwarya <ishwaryav04@gmail.com>
+Date:   Thu Aug 10 10:45:23 2023 +0530
+
+    Initial Commit
